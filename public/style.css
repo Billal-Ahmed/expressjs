@@ -1,0 +1,75 @@
+*{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 0px;
+    margin: 0px;
+}
+#fhm{
+    position: relative;
+    animation: move 7s ease-in-out 1s infinite running;
+    width: 300px;
+    cursor:crosshair;
+    
+}
+@keyframes move {
+    0%{left: 0px;}
+    30%{left: 500px;}
+    60%{left: 800px;}
+    80%{left: 500px;}
+    100%{left: 10px;}
+}
+.headf{
+    padding-top: 0px important;
+}
+.head{
+    /* display: block; */
+    width: 100%;
+    text-align: center;
+    padding-top: 10px;
+}
+p{
+    text-align: center;
+    margin-top: 20px    ;
+}
+.fd{
+    background-color: rgb(78, 77, 77);
+    color: rgb(255, 255, 255);
+    padding: 40px 0px;
+    /* display: flex; */
+    /* justify-content: center; */
+    /* align-items: center; */
+}
+
+.form{
+    /* padding: 100px; */
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 500px;
+    padding-top: 50px;
+    background-color: rgb(215, 231, 190);
+}
+form input{
+    display: block;
+    margin: 10px;
+    padding: 10px;
+}
+form button{
+    margin: 30px;
+    width: 100px;
+    height: 40px;
+    
+    
+}
+ul{
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+ align-items: center;
+ padding: 30px;
+ text-decoration: none;
+}
+ul a{
+    padding: 2px;
+}
