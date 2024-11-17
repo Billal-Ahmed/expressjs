@@ -21,12 +21,11 @@ fill the data
 <li> 
 press submit
 </li>
-<alert>
+<b>
 Attention:
-</alert>
+</b>
+<li>mysql password - set this
+</li>
 
 </ol>
 
-
-->   : 
-1. mysql password - set this
