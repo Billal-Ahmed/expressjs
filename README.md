@@ -12,12 +12,17 @@ npm init <- write this in terminal : this will install expressjs,mysql2 and ejs;
 
 <li> then write "node app.js" in terminal of same directory.
 </li>
+<li> 
+open the localhost:3000
+</li>
+<li> 
+fill the data
+</li>
+<li> 
+press submit
+</li>
+
 </ol>
-
-
--> open the localhost:3000
--> fill the data
--> press submit
 
 
 -> attention  : 
