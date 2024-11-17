@@ -2,8 +2,10 @@
 
 <p> simple express app that gets data from html form and stores it in mysql
 </p>
-
--> install nodejs ,mysql
+<ol>
+<li> install nodejs ,mysql </li>
+</ol>
+ 
 -> I'm assuming that mysql is running at rooot
 -> npm init <- write this in terminal : this will install expressjs,mysql2 and ejs;
 -> then write "node app.js" in terminal of same directory.
