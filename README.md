@@ -1,5 +1,7 @@
 # expressjs
-simple express app that gets data from html form and stores it in mysql
+
+<p> simple express app that gets data from html form and stores it in mysql
+</p>
 
 -> install nodejs ,mysql
 -> I'm assuming that mysql is running at rooot
