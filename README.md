@@ -24,9 +24,9 @@ press submit
 
 
 <b>
-Attention:
+note:
 </b>
-<li>mysql password - set this
+<li>don't forget to set mysql password
 </li>
 
 </ol>
