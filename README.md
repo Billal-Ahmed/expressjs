@@ -7,7 +7,7 @@
 <li> I'm assuming that mysql is running at rooot</li>
 
 <li> 
-npm init <- write this in terminal : this will install expressjs,mysql2 and ejs; 
+npm init <- this will install expressjs,mysql2 and ejs; 
 </li>
 
 <li> then write "node app.js" in terminal of same directory.
